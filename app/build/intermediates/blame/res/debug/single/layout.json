@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/giuseppedonadio/Documents/mobile_dev/android/book_apps/ch08_TipCalculator/app/build/intermediates/res/merged/debug/layout/activity_tip_calculator.xml",
+        "source": "/Users/giuseppedonadio/Documents/mobile_dev/android/book_apps/ch08_TipCalculator/app/src/main/res/layout/activity_tip_calculator.xml"
+    },
+    {
+        "merged": "/Users/giuseppedonadio/Documents/mobile_dev/android/book_apps/ch08_TipCalculator/app/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/Users/giuseppedonadio/Documents/mobile_dev/android/book_apps/ch08_TipCalculator/app/src/main/res/layout/activity_about.xml"
+    }
+]
